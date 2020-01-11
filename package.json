@@ -1,0 +1,19 @@
+{
+  "name": "streylegend",
+  "version": "1.0.0",
+  "description": "musicbot for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "author": "StreyLegend",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "ffmpeg-binaries": "^3.2.2",
+    "install": "^0.13.0",
+    "node-pre-gyp": "^0.14.0",
+    "opusscript": "0.0.7",
+    "ytdl-core": "^1.0.0"
+  }
+}
